@@ -3,7 +3,9 @@
   <entry>
     <title>Hello World</title>
     <url>/2023/04/08/hello-world/</url>
-    <content><![CDATA[<p>Welcome to my blog! I will start uploading blogs about programming, popular science, researches, books, movies, travel, hobbies, cool news, etc.</p>
+    <content><![CDATA[<p>Welcome to my blog! I will start uploading blogs about programming,
+popular science, researches, books, movies, travel, hobbies, cool news,
+etc.</p>
 ]]></content>
   </entry>
   <entry>
@@ -100,5 +102,8 @@ START FROM TOMORROW
 <p>The next daily routine blog topic might be "Dream", but it's the
 dream that happens when you sleep.</p>
 ]]></content>
+      <tags>
+        <tag>Health</tag>
+      </tags>
   </entry>
 </search>
