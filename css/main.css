@@ -2696,7 +2696,7 @@ mjx-container + br {
   }
 }
 body {
-  background: url("/images/blue_whale.png");
+  background: url("/old-blog/images/blue_whale.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
