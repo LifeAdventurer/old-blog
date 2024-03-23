@@ -1909,10 +1909,10 @@ pre .javascript .function {
 .rtl.post-body ul,
 .rtl.post-body ol {
   direction: rtl;
-  font-family: UKIJ Ekran;
+  font-family: 'UKIJ Ekran', monospace;
 }
 .rtl.post-title {
-  font-family: UKIJ Ekran;
+  font-family: 'UKIJ Ekran', monospace;
 }
 .post-tags {
   margin-top: 40px;
@@ -2043,7 +2043,7 @@ pre .javascript .function {
   font-size: 10px;
   margin-right: 25px;
   vertical-align: middle;
-  font-family: 'Font Awesome 5 Free';
+  font-family: 'Font Awesome 5 Free', sans-serif;
   font-weight: 900;
 }
 .event-list .event .event-relative-time {
@@ -2069,7 +2069,7 @@ pre .javascript .function {
   text-align: center;
   text-indent: 0;
   width: 14px;
-  font-family: 'Font Awesome 5 Free';
+  font-family: 'Font Awesome 5 Free', sans-serif;
   font-weight: 900;
 }
 .event-list .event .event-details.event-location::before {
